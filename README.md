@@ -37,7 +37,7 @@ SITE_URL=https://fmwmedia.vercel.app
 - **Centralized SEO Config**: Defined in `src/lib/seo.config.ts`.
 - **Dynamic Resource Detail Pages**: Individual SEO indexable pages located at `/resources/[slug]`.
 - **Informational Guides**: `/about`, `/how-it-works`, `/safety`, `/request`, `/dmca`.
-- **Raycast-style Command Palette**: `Cmd+K` / `Ctrl+K` site-wide fuzzy search.
+- **Raycast-style Command Palette**: `Cmd+K` / `Ctrl+K` site-wide fuzzy search....
 
 ## License
 
