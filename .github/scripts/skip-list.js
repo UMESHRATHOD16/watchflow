@@ -11,10 +11,11 @@ const SKIP_URLS = new Set([
   'https://goplay.su',
   'https://inkapelis.cyou',
   'https://www.anivault.co',
-  'https://FMWx.vercel.app/site-request.html',
+  'https://fmwsite.pages.dev/site-request.html',
   'https://tv.eddit.me/',
   'https://cokcok10.com/',
-  'https://stmify.com/'
+  'https://stmify.com/',
+  'https://shafilm.vip/'
 ]);
 
 function normalize(url) {
