@@ -33,7 +33,7 @@
           "status": "trusted"
         },
         {
-          "name":"Rivo",
+          "name": "Rivo",
           "url": "https://rivo.st/",
           "logo": "./logo/movies_shows/rivo.png",
           "enabled": true,
@@ -626,7 +626,7 @@
         },
         {
           "name": "RiveStream Sports",
-          "url": "https://rivestream.ru/livesports/",
+          "url": "https://www.rivestream.app/",
           "logo": "./logo/movies_shows/rivestream.png",
           "enabled": true
         },
@@ -673,10 +673,10 @@
           "enabled": true
         },
         {
-          "name":"Goalzen",
-          "url":"https://www.goalzen.site/",
-          "logo":"./logo/livetv/goalzen.png",
-          "enabled":true
+          "name": "Goalzen",
+          "url": "https://www.goalzen.site/",
+          "logo": "./logo/livetv/goalzen.png",
+          "enabled": true
         }
       ]
     },
