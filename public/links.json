@@ -33,6 +33,13 @@
           "status": "trusted"
         },
         {
+          "name": "Rivo",
+          "url": "https://rivo.st/",
+          "logo": "./logo/movies_shows/rivo.png",
+          "enabled": true,
+          "status": "trusted"
+        },
+        {
           "name": "shuttletv",
           "url": "https://shuttletv.su/",
           "logo": "./logo/movies_shows/shuttletv.webp",
@@ -40,7 +47,7 @@
         },
         {
           "name": "FlickyStream",
-          "url": "https://meowtv.ru/",
+          "url": "https://flickystream.mov/",
           "logo": "./logo/movies_shows/flickystream.png",
           "enabled": true,
           "status": "trusted"
@@ -195,6 +202,12 @@
           "name": "Movy",
           "url": "https://www.movy.sx/",
           "logo": "./logo/movies/movy.png"
+        },
+        {
+          "name": "atlantic",
+          "url": "https://atlantic.st/",
+          "logo": "./logo/movies_shows/atlantic.png",
+          "enabled": true
         }
       ]
     },
@@ -651,12 +664,18 @@
           "name": "golvar",
           "url": "https://golvar559.sbs/",
           "logo": "./logo/livetv/golvar.png",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "freetvgarden",
           "url": "https://freetvgarden.com/",
           "logo": "./logo/livetv/freetvgarden.png",
+          "enabled": true
+        },
+        {
+          "name": "Goalzen",
+          "url": "https://www.goalzen.site/",
+          "logo": "./logo/livetv/goalzen.png",
           "enabled": true
         }
       ]
@@ -793,7 +812,7 @@
         },
         {
           "name": "MobiFlix",
-          "url": "https://mobiflixapp.com/",
+          "url": "https://mobiflix.net/",
           "logo": "./logo/apps/mobiflix.png",
           "enabled": true
         },
